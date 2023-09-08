@@ -1,0 +1,10 @@
+C:\Users\Juanma\source\repos\Practico 4\Practico 4\bin\Debug\Practico 4.exe.config
+C:\Users\Juanma\source\repos\Practico 4\Practico 4\bin\Debug\Practico 4.exe
+C:\Users\Juanma\source\repos\Practico 4\Practico 4\bin\Debug\Practico 4.pdb
+C:\Users\Juanma\source\repos\Practico 4\Practico 4\obj\Debug\Practico 4.csproj.AssemblyReference.cache
+C:\Users\Juanma\source\repos\Practico 4\Practico 4\obj\Debug\Practico_4.Form1.resources
+C:\Users\Juanma\source\repos\Practico 4\Practico 4\obj\Debug\Practico_4.Properties.Resources.resources
+C:\Users\Juanma\source\repos\Practico 4\Practico 4\obj\Debug\Practico 4.csproj.GenerateResource.cache
+C:\Users\Juanma\source\repos\Practico 4\Practico 4\obj\Debug\Practico 4.csproj.CoreCompileInputs.cache
+C:\Users\Juanma\source\repos\Practico 4\Practico 4\obj\Debug\Practico 4.exe
+C:\Users\Juanma\source\repos\Practico 4\Practico 4\obj\Debug\Practico 4.pdb

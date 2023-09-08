@@ -1,0 +1,17 @@
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\bin\Debug\net6.0-windows\Practico 5.exe
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\bin\Debug\net6.0-windows\Practico 5.deps.json
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\bin\Debug\net6.0-windows\Practico 5.runtimeconfig.json
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\bin\Debug\net6.0-windows\Practico 5.dll
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\bin\Debug\net6.0-windows\Practico 5.pdb
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\Practico_5.Form1.resources
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\Practico_5.Properties.Resources.resources
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\Practico 5.csproj.GenerateResource.cache
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\Practico 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\Practico 5.AssemblyInfoInputs.cache
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\Practico 5.AssemblyInfo.cs
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\Practico 5.csproj.CoreCompileInputs.cache
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\Practico 5.dll
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\refint\Practico 5.dll
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\Practico 5.pdb
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\Practico 5.genruntimeconfig.cache
+C:\Users\Juanma\source\repos\Prácticos\Practico 5\Practico 5\obj\Debug\net6.0-windows\ref\Practico 5.dll
